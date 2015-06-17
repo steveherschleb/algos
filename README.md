@@ -23,8 +23,6 @@ Fancy data structures currently included:
 
 ## Tests
 
-Make sure you have Jasmine installed, and then just run:
-  
-  jasmine
+Make sure you have Jasmine installed, and then just run `jasmine`
 
 
